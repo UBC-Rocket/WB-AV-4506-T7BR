@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Net24V_2 Pin=D1-1
+Removed Pin From Net: NetName=Net12V_2 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Member To Class: ClassName=T7BR-Schematic Member=Component TC6 Header 4H

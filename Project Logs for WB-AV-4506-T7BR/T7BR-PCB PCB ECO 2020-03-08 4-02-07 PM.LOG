@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=Net24V_2 Pin=D1-2
+Removed Pin From Net: NetName=Net12V_2 Pin=D2-2
+Added Component: Designator=D1(*0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "160-1446-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTST-C191KGKT/160-1446-1-ND/386834?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C191KGKT/Lite-On%20Inc./view-part/48565/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(*0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "160-1446-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTST-C191KGKT/160-1446-1-ND/386834?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C191KGKT/Lite-On%20Inc./view-part/48565/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net24V_2 Pin=D1-1
+Added Pin To Net: NetName=Net12V_2 Pin=D2-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R7-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R8-2
+Added Net: Name=NetD2_2
