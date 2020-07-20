@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Pablo Fernandez\Documents\UBC Rocket\WB\4506-WB-AV-T7BR\WB-AV-4506-T7BR\T7BR-PCB.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00

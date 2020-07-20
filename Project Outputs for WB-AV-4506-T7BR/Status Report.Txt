@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WB-AV-4506-T7BR.PrjPcb]
+   Generated File[T7BR-PCB.TXT]
+   Generated File[T7BR-PCB.LDP]
+   Generated File[T7BR-PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:17:17 PM On 2020-03-21
